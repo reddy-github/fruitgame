@@ -1,1 +1,1 @@
-web: catch-fruit.py
+web: python catch-fruit.py
